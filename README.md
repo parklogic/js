@@ -1,4 +1,4 @@
-# ParkLogic PHP packages
+# ParkLogic JS packages
 
 Packages used internally by ParkLogic.
 
